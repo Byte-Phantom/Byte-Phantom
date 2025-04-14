@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h2 align="left">Hi 👋! My name is Mumetu Mahadin Jehad and I'm a student, from Islamic university, Bangladesh</h2>
 
 ###
 
